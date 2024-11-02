@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sairaj1592
 - 👀 I’m interested in Upskilling
-- 🌱 I’m currently learning JS Frameworks
+- 🌱 I’m currently learning AI ML
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me ... :)
 - 😄 Pronouns: He / Him
